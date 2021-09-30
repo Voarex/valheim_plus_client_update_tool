@@ -32,4 +32,3 @@ $ git clone https://github.com/Voarexxx/valheim_plus_client_update_tool.git
 $ cd valheim_plus_client_update_tool
 $ .\update_valheim_plus.ps1
 ```
-
