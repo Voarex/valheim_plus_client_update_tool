@@ -1,6 +1,6 @@
 # Welcome to the Valheim Plus Client Update Tool
 
-Because Valhiem Plus does not update the windows client automagically I will summon the wizards.
+Valhiem Plus does not update the windows client, so I will automagically summon the wizards. (This repo is currently under review for updates to Valheim Plus.)
 
 ## Table of Contents
 1. [Prerequisites](#prereq)
